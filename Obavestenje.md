@@ -1,6 +1,8 @@
 Projektovanje i modelovanje
 Aplikacija – Kupovina karata za fudbalske utakmice
+
 Cilj:
+
 •	Dizajnirati aplikaciju
 •	Napraviti bazu na osnovu datih rola
 •	Povezati dizajn i bazu i odraditi određene funkcije
