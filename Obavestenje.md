@@ -14,4 +14,3 @@ Neophodno je zadovoljiti sledeće kriterijume:
 Tehnički detalji:
 1.	Aplikaciju treba uraditi u „NetBeans“ razvojnom okruženju
 2.	Bazu treba uraditi u „Oracle 11g“ razvojnom okruženju
-
